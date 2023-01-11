@@ -1,0 +1,43 @@
+* {
+    color: blue;
+}
+
+p {
+    color: red;
+    width: 300px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    border: 3px dashed black;
+    padding: 5px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+    color: grey;
+}
+
+h2 {
+    font-weight: lighter;
+    color: blue;
+}
+
+section {
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+
+#mi_profile {
+    color: yellowgreen;
+    font-size: 23px;
+    border: 5px solid orange;
+}
+
+.myclass {
+    font-weight: bolder;
+    color: purple;
+}
